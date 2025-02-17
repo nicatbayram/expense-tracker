@@ -33,13 +33,14 @@ This is a React Native Expense Tracker application that helps users track their 
    npx expo start                # Expo
    ```
 
-
-## Screenshots
-![Home Screen](https://via.placeholder.com/400)
-![Statistics Screen](https://via.placeholder.com/400)
-
 ## Contribution
 Feel free to fork this repository, create a feature branch, and submit a pull request with your improvements!
+
+## Screenshots
+
+https://github.com/user-attachments/assets/52dd863d-e993-401f-99fb-20bacb86754a
+
+
 
 
 
